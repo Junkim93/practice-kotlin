@@ -26,4 +26,6 @@ fun main() {
     if (arrowsInQuiver >= 5)
         println("화살이 충분함")
         println("더 이상의 화살을 가질 수 없음")
+
+    println("test")
 }
